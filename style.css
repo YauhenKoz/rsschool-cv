@@ -1,0 +1,62 @@
+h1 {
+  font-weight: 900;
+  line-height: 50px;
+}
+h2 {
+  border: 3px solid;
+  color: rgb(23, 23, 184);
+  font-size: 23px;
+  text-align: center;
+  padding: 20;
+}
+.info {
+  text-align: center;
+  font: bold 28px Verdana, sans-serif;
+  color: rgb(38, 148, 175);
+}
+ul,
+ol,
+p {
+  font-size: 21px;
+  padding: 30px, 20px;
+}
+.maintext {
+  padding-left: 150px;
+  padding-right: 150px;
+}
+.links {
+  text-align: center;
+}
+.block {
+  background: url(../rsschool-cv/Img/resume.jpg) 0 0 / 100% 100% no-repeat;
+  border-radius: 0px 10px 0px 10px;
+  border: 10px solid rgb(38, 148, 175);
+  max-width: 1000px;
+  margin: 0px auto;
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+}
+.block1 {
+  max-width: 50%;
+  text-align: center;
+}
+.block2 {
+  max-width: 50%;
+  text-align: center;
+}
+.foto {
+  content: "";
+  position: absolute;
+  background: url(../rsschool-cv/Img/5х6.jpg);
+  background-size: 180px 210px;
+  width: 180px;
+  height: 210px;
+  border-radius: 15px;
+  border: solid 3px rgb(38, 148, 175);
+  right: 200px;
+  top: 110px;
+}
+.date {
+  font-size: 15px;
+  text-align: center;
+}
