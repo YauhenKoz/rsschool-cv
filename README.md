@@ -1,1 +1,1 @@
-# rsschool-cv
+https://YauhenKoz.github.io/rsschool-cv/cv
