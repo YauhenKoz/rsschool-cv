@@ -5,7 +5,7 @@
 # Contacts
 
 - _e-mail:_ **egkozel@gmail.com**
-- _WhatsApp/Telegram/Viber:_ **375 29 8246796**
+- _WhatsApp/Telegram/Viber:_ **+375 29 8246796**
 
 # About myself
 
